@@ -9,6 +9,8 @@ const skills = [
   "MongoDB",
   "Tailwind CSS",
   "API Integration",
+  "Java",
+  "SQL",
 ];
 
 const Skills = () => {
