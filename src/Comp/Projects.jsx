@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import ModernWeb from "../assets/ModernWeb.png"
 import wander from "../assets/wander.png"
 import rakshTap from "../assets/rakshTap.png"
+import AiComponent from "../assets/Ai-comp-gen.png"
 
 const projects = [
   {
@@ -19,6 +20,11 @@ const projects = [
     image: rakshTap,
     link: "https://raksha-tap.netlify.app/",
   },
+  {
+    name: "AI Component Generator",
+    image: AiComponent,
+    link: "https://deluxe-conkies-a9c9d6.netlify.app/"
+  }
 ];
 
 const Projects = () => {
