@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaLaptopCode, FaMobileAlt, FaBug, FaServer } from "react-icons/fa";
+import { FaLaptopCode, FaMobileAlt, FaBug, FaServer , FaMagnifyingGlass } from "react-icons/fa";
 
 const services = [
   {
@@ -22,6 +22,11 @@ const services = [
     desc: "Connect frontend with APIs & dynamic data handling.",
     icon: <FaServer size={30} />,
   },
+  {
+    title : "SEO optimization",
+    desc : "Improve website visibility and search engine ranking",
+    icon : <FaMagnifyingGlass size={30} />
+  }
 ];
 
 const Services = () => {
