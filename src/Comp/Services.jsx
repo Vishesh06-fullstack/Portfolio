@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaLaptopCode, FaMobileAlt, FaBug, FaServer , FaMagnifyingGlass } from "react-icons/fa";
+import { FaLaptopCode, FaMobileAlt, FaBug, FaServer  } from "react-icons/fa";
 import { FaMagnifyingGlass } from "react-icons/fa6";
 
 const services = [
