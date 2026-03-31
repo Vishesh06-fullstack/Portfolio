@@ -8,6 +8,7 @@ const skills = [
   "Node.js",
   "MongoDB",
   "Tailwind CSS",
+  "Bootstrap",
   "API Integration",
   "Java",
   "SQL",
