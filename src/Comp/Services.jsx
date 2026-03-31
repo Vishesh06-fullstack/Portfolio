@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { FaLaptopCode, FaMobileAlt, FaBug, FaServer  } from "react-icons/fa";
 import { FaMagnifyingGlass } from "react-icons/fa6";
+import { FaGoogle } from "react-icons/fa";
 
 const services = [
   {
@@ -27,7 +28,13 @@ const services = [
     title : "SEO optimization",
     desc : "Improve website visibility and search engine ranking",
     icon : <FaMagnifyingGlass size={30} />
-  }
+  },
+ {
+  title: "GMB Services",
+  desc: "Optimize your Google Business Profile to boost local visibility and get more leads.",
+  icon: <FaGoogle size={30} />
+},
+
 ];
 
 const Services = () => {
