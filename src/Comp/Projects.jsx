@@ -21,7 +21,7 @@ const projects = [
     link: "https://raksha-tap.netlify.app/",
   },
   {
-    name: "Full Stack - AI Component Generator",
+    name: "AI-Powered UI Component Generator (SaaS)",
     image: AiComponent,
     link: "https://deluxe-conkies-a9c9d6.netlify.app/"
   }
