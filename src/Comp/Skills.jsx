@@ -12,7 +12,8 @@ const skills = [
   "API Integration",
   "Java",
   "SQL",
-  "Firebase"
+  "Firebase",
+  "Git & GitHub",
 ];
 
 const Skills = () => {

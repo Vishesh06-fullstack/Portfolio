@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import ModernWeb from "../assets/Nishu.png"
+import ModernWeb from "../assets/ModernWeb.png"
 import wander from "../assets/wander.png"
 import rakshTap from "../assets/rakshTap.png"
 import AiComponent from "../assets/Ai-comp-gen.png"

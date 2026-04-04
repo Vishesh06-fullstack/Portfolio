@@ -13,7 +13,7 @@ const Navbar = () => {
       transition={{ duration: 0.5 }}
     >
       <div className="flex justify-between items-center px-6 py-4 max-w-6xl mx-auto">
-        <h1 className="text-2xl font-bold font-poppins cursor-pointer">Nishu.dev</h1>
+        <h1 className="text-2xl font-bold font-poppins cursor-pointer">Vishesh.dev</h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6 font-medium">

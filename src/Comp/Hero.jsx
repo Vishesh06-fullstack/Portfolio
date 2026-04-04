@@ -12,7 +12,7 @@ const Hero = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 1 }}
       >
-        Hi, I'm Nishu
+        Hi, I'm Vishesh
       </motion.h1>
       <motion.p
         className="text-xl md:text-2xl mb-6 max-w-xl"
